@@ -1,2 +1,2 @@
 # To-Do-List
-To-Do-List made by html css java script
+To-Do-List made up of  html css java script
